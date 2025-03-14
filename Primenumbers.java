@@ -9,7 +9,7 @@ public class Primenumbers{
 
 
 
-
+  //if a number is divisible by a value greater than its square root, then it must also be divisible by a smaller value that has already been checked.
         if ( number < 2 ){
             System.out.println( number + " is not a prime number ");
             return;
